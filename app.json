@@ -1,0 +1,20 @@
+{
+  "expo": {
+    "name": "EduGestão",
+    "slug": "edugestao",
+    "scheme": "edugestao",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "light",
+    "plugins": [
+      "expo-router"
+    ],
+    "web": {
+      "bundler": "metro",
+      "output": "static"
+    },
+    "experiments": {
+      "typedRoutes": false
+    }
+  }
+}
